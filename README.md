@@ -11,13 +11,15 @@ A hybrid model using pretrained VGG16 layers to extract low-level features befor
 
 A model Performace review is given at the end of this code comparing to the performance of 2 models on the same dataset. 
 
-# Model 1: Vision Transformer (https://github.com/Kisht2t/Vision-Transformer)
+# Model 1: Vision Transformer 
+(https://github.com/Kisht2t/Vision-Transformer)
 
 # Model 2: Hybrid VGG 16 + ViT Model (Same Code)
 
-Flow Work:
 
 # Hybrid VGG16 +ViT Model
+
+Flow Work:
 
 1. Pretrained VGG16 for Feature Extraction:
 
