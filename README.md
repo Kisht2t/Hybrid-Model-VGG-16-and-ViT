@@ -4,17 +4,20 @@ IDE: This code uses the google collab, Google Collab is Preferred for T4 GPU.
 
 How to use Google Collab and save dataset in google drive?
 
-Refer the link:
+# Refer the link:
 https://www.youtube.com/watch?v=Gvwuyx_F-28
 
 A hybrid model using pretrained VGG16 layers to extract low-level features before passing them through ViT blocks.
+
 A model Performace review is given at the end of this code comparing to the performance of 2 models on the same dataset. 
-Model 1: Vision Transformer (https://github.com/Kisht2t/Vision-Transformer)
-Model 2: Hybrid VGG 16 + ViT Model (Same Code)
+
+# Model 1: Vision Transformer (https://github.com/Kisht2t/Vision-Transformer)
+
+# Model 2: Hybrid VGG 16 + ViT Model (Same Code)
 
 Flow Work:
 
-3. Hybrid VGG16 +ViT Model
+# Hybrid VGG16 +ViT Model
 
 1. Pretrained VGG16 for Feature Extraction:
 
